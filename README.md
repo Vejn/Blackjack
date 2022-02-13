@@ -1,1 +1,3 @@
 # Blackjack
+
+Classic Blackjack game
